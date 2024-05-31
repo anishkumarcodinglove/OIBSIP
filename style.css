@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+body{
+    background-color: black;
+    color: #eee;
+    justify-content: center;
+}
+.tributer-name{
+    text-align: center;
+    margin-top: 20px;
+}
+.tributer-column {
+    margin-top: 10%;
+    background: #eee;
+    color: black;
+    padding: 5%;
+}
+.tributer-column h3{
+    font-style: italic;
+}
+.tributer-column {
+    display: flex;
+}
+.tributer-column img {
+    margin-left: 26%;
+}
+.navin-thought{
+    text-align: justify;
+}
+.tributer-bio {
+    margin-top: 5%;
+    text-align: center;
+}
+.tributer-bio-para {
+    border: 2px solid white;
+    padding: 2%;
+    margin: 2% 15%;
+}
+.tributer-greet {
+    margin: 2% 15%;
+    text-align: center;
+    
+}
